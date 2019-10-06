@@ -70,7 +70,7 @@ ___
 ![Image of Fault Management](https://drive.google.com/file/d/1DBsy1-bgH7bXXUbqi_UjJBbd8mTqwHwH/view?usp=sharing)
 
 #### 8. Accounting Management
-![Image of Accounting Management](https://drive.google.com/file/d/1UAix0la3Gw2ddOE6q6UKyAf8pC9kRgDV/view?usp=sharing)
+![Image of Accounting Management](https://drive.google.com/drive/u/0/folders/13nkBn0K_4neHCz6cw70Yvw97D_rOcNXA)
 
 #### 9. Notifikasi Telegram
 ![Image of Notifikasi](https://drive.google.com/file/d/1oOlK5QE9cL9ub9mr56FRrkMr6c6Soea8/view?usp=sharing)
