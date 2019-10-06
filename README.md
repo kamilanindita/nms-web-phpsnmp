@@ -1,4 +1,4 @@
-#Fault Management dan Accaounting Management NMS<br>
+#<b><center>Fault Management dan Accaounting Management NMS</center></b><br>
 #1.Menggunakan protocol SNMP untuk penggambilan data perangkat jaringan<br>
 #2.Menggunakan bahasa pemograman PHP<br>
 #3.Pemograman ditulis secara Prosedural<br>
