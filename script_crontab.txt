@@ -1,0 +1,6 @@
+* * * * * php /var/www/html/nms/bg_proses/_net_discovery_.php
+* * * * * php /var/www/html/nms/bg_proses/_proses_resources_.php
+* * * * * php /var/www/html/nms/bg_proses/_proses_interfaces_.php
+* * * * * php /var/www/html/nms/bg_proses/_proses_health_.php
+* * * * * php /var/www/html/nms/bg_proses/cek_kondisi_interfaces_.php
+59 23 30 * * php /var/www/html/nms/bg_proses/delete_semua_data.php
