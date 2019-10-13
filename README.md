@@ -39,7 +39,7 @@ ___
    Import database dengan databaes (nms.sql) yang telah disediakan<br>
    Copy file ke directory /var/www/html <br>
    Edit file koneksi pada directory /var/www/html/nms/koneksi/koneksi.php sesuai dengan konfigurasi database (user dan passwd) <br>
-   Jalankan crontab dengan script sesuai dengan file script_crontab.txt
+   Jalankan crontab dengan script sesuai dengan file script_crontab.txt<br>
    Pastikan server dan admin terhubung,lalu buka browser dan akses alamat dari server NMS serta login dengan user dan password <br>
    **username (admin1) dan password (admin1) tanpa tanda ()
  
